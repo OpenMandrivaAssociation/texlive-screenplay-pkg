@@ -1,6 +1,6 @@
 Name:		texlive-screenplay-pkg
 Version:	44965
-Release:	1
+Release:	2
 Summary:	Package version of the screenplay document class
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/screenplay-pkg
