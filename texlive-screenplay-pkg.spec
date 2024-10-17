@@ -3,7 +3,7 @@ Version:	44965
 Release:	2
 Summary:	Package version of the screenplay document class
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/screenplay-pkg
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/screenplay-pkg
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/screenplay-pkg.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/screenplay-pkg.doc.r%{version}.tar.xz
